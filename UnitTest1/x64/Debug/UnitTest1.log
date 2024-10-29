@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+     Creating library C:\Users\User\source\repos\Lab9.1\x64\Debug\UnitTest1.lib and object C:\Users\User\source\repos\Lab9.1\x64\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2001: unresolved external symbol "int nsVar::n" (?n@nsVar@@3HA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::x" (?x@nsVar@@3NA)
+UnitTest1.obj : error LNK2001: unresolved external symbol "double nsVar::a" (?a@nsVar@@3NA)
+C:\Users\User\source\repos\Lab9.1\x64\Debug\UnitTest1.dll : fatal error LNK1120: 3 unresolved externals
